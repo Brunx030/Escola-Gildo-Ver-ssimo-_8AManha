@@ -1,11 +1,15 @@
 ---
 created: 2022-09-29T08:07:33-03:00
-modified: 2022-09-29T08:35:46-03:00
+modified: 2022-09-29T08:38:17-03:00
 ---
 
 # Pesquisa sobre o git
 
-O Git é um projeto de código aberto maduro e com manutenção ativa desenvolvido em 2005 por Linus Torvalds, o famoso criador do kernel do sistema operacional Linux. Um número impressionante de projetos de software depende do Git para controle de versão, incluindo projetos comerciais e de código-fonte aberto.
+O Git é um sistema de controle de versão de arquivos. É um software livre e muito utilizado no desenvolvimento de software onde diversas pessoas estão contribuindo simultaneamente, podendo criar e editar arquivos. Sempre quando alguém disponibiliza sua parte do projeto no Git, ele gerencia as alterações feitas e guarda um histórico. Isso é importante pois se houver algum problema você pode desfazer as alterações e voltar para a versão que estava estável.
+
+O Git foi projetado e desenvolvido pelo Linus Torvalds para o desenvolvimento do Linux e foi adotado por muitos outros projetos.
+
+Existem sites que provêm hospedagem gratuita de código fonte para repositório Git, um deles é o GitHub.
 
 É um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo (Exemplo: alguns livros digitais são disponibilizados no GitHub e escrito aos poucos publicamente). O Git foi inicialmente projetado e desenvolvido por Linus Torvalds para o desenvolvimento do kernel Linux, mas foi adotado por muitos outros projetos.
 
